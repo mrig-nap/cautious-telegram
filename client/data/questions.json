@@ -1,0 +1,458 @@
+[
+  {
+      "question": "What is the capital of France?",
+      "options": [
+          "A: Paris",
+          "B: London",
+          "C: Berlin",
+          "D: Madrid"
+      ],
+      "correct_answer": "A",
+      "difficulty": "easy",
+      "category": "Geography"
+  },
+  {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": [
+          "A: Harper Lee",
+          "B: Mark Twain",
+          "C: J.K. Rowling",
+          "D: Ernest Hemingway"
+      ],
+      "correct_answer": "A",
+      "difficulty": "medium",
+      "category": "Literature"
+  },
+  {
+      "question": "What is the chemical symbol for gold?",
+      "options": [
+          "A: Au",
+          "B: Ag",
+          "C: Pt",
+          "D: Pb"
+      ],
+      "correct_answer": "A",
+      "difficulty": "easy",
+      "category": "Science"
+  },
+  {
+      "question": "What is the largest planet in our solar system?",
+      "options": [
+          "A: Earth",
+          "B: Mars",
+          "C: Jupiter",
+          "D: Saturn"
+      ],
+      "correct_answer": "C",
+      "difficulty": "easy",
+      "category": "Science"
+  },
+  {
+      "question": "Who painted the Mona Lisa?",
+      "options": [
+          "A: Vincent van Gogh",
+          "B: Pablo Picasso",
+          "C: Leonardo da Vinci",
+          "D: Claude Monet"
+      ],
+      "correct_answer": "C",
+      "difficulty": "medium",
+      "category": "Art"
+  },
+  {
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+          "A: Earth",
+          "B: Mars",
+          "C: Jupiter",
+          "D: Venus"
+      ],
+      "correct_answer": "B",
+      "difficulty": "easy",
+      "category": "Science"
+  },
+  {
+      "question": "Who is the author of '1984'?",
+      "options": [
+          "A: George Orwell",
+          "B: Aldous Huxley",
+          "C: Ray Bradbury",
+          "D: Arthur C. Clarke"
+      ],
+      "correct_answer": "A",
+      "difficulty": "medium",
+      "category": "Literature"
+  },
+  {
+      "question": "Which organ is responsible for pumping blood throughout the body?",
+      "options": [
+          "A: Lungs",
+          "B: Liver",
+          "C: Heart",
+          "D: Kidneys"
+      ],
+      "correct_answer": "C",
+      "difficulty": "easy",
+      "category": "Biology"
+  },
+  {
+      "question": "Who developed the theory of relativity?",
+      "options": [
+          "A: Isaac Newton",
+          "B: Galileo Galilei",
+          "C: Nikola Tesla",
+          "D: Albert Einstein"
+      ],
+      "correct_answer": "D",
+      "difficulty": "medium",
+      "category": "Science"
+  },
+  {
+      "question": "What is the largest ocean on Earth?",
+      "options": [
+          "A: Atlantic Ocean",
+          "B: Indian Ocean",
+          "C: Arctic Ocean",
+          "D: Pacific Ocean"
+      ],
+      "correct_answer": "D",
+      "difficulty": "easy",
+      "category": "Geography"
+  },
+  {
+      "question": "Who was the first President of the United States?",
+      "options": [
+          "A: Abraham Lincoln",
+          "B: George Washington",
+          "C: Thomas Jefferson",
+          "D: John Adams"
+      ],
+      "correct_answer": "B",
+      "difficulty": "easy",
+      "category": "History"
+  },
+  {
+      "question": "Which element has the atomic number 1?",
+      "options": [
+          "A: Helium",
+          "B: Hydrogen",
+          "C: Oxygen",
+          "D: Nitrogen"
+      ],
+      "correct_answer": "B",
+      "difficulty": "easy",
+      "category": "Science"
+  },
+  {
+      "question": "What is the smallest prime number?",
+      "options": [
+          "A: 1",
+          "B: 2",
+          "C: 3",
+          "D: 5"
+      ],
+      "correct_answer": "B",
+      "difficulty": "easy",
+      "category": "Mathematics"
+  },
+  {
+      "question": "Which country hosted the 2016 Summer Olympics?",
+      "options": [
+          "A: China",
+          "B: Brazil",
+          "C: Russia",
+          "D: Japan"
+      ],
+      "correct_answer": "B",
+      "difficulty": "medium",
+      "category": "Sports"
+  },
+  {
+      "question": "Who is known as the 'Father of Computers'?",
+      "options": [
+          "A: Charles Babbage",
+          "B: Alan Turing",
+          "C: Bill Gates",
+          "D: Steve Jobs"
+      ],
+      "correct_answer": "A",
+      "difficulty": "medium",
+      "category": "Technology"
+  },
+  {
+      "question": "What is the capital of Japan?",
+      "options": [
+          "A: Beijing",
+          "B: Seoul",
+          "C: Tokyo",
+          "D: Bangkok"
+      ],
+      "correct_answer": "C",
+      "difficulty": "easy",
+      "category": "Geography"
+  },
+  {
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "options": [
+          "A: Charlotte Brontë",
+          "B: Jane Austen",
+          "C: Emily Brontë",
+          "D: Mary Shelley"
+      ],
+      "correct_answer": "B",
+      "difficulty": "medium",
+      "category": "Literature"
+  },
+  {
+      "question": "Which gas is most abundant in Earth's atmosphere?",
+      "options": [
+          "A: Oxygen",
+          "B: Carbon Dioxide",
+          "C: Nitrogen",
+          "D: Hydrogen"
+      ],
+      "correct_answer": "C",
+      "difficulty": "easy",
+      "category": "Science"
+  },
+  {
+      "question": "Which planet is known as the Earth's twin?",
+      "options": [
+          "A: Mars",
+          "B: Venus",
+          "C: Jupiter",
+          "D: Saturn"
+      ],
+      "correct_answer": "B",
+      "difficulty": "medium",
+      "category": "Science"
+  },
+  {
+      "question": "What is the largest mammal in the world?",
+      "options": [
+          "A: Elephant",
+          "B: Blue Whale",
+          "C: Giraffe",
+          "D: Hippopotamus"
+      ],
+      "correct_answer": "B",
+      "difficulty": "easy",
+      "category": "Biology"
+  },
+  {
+      "question": "Who was the first woman to win a Nobel Prize?",
+      "options": [
+          "A: Marie Curie",
+          "B: Mother Teresa",
+          "C: Jane Addams",
+          "D: Rosalind Franklin"
+      ],
+      "correct_answer": "A",
+      "difficulty": "medium",
+      "category": "History"
+  },
+  {
+      "question": "What is the main ingredient in traditional Japanese miso soup?",
+      "options": [
+          "A: Soybeans",
+          "B: Tofu",
+          "C: Seaweed",
+          "D: Rice"
+      ],
+      "correct_answer": "A",
+      "difficulty": "medium",
+      "category": "Cuisine"
+  },
+  {
+      "question": "Which is the longest river in the world?",
+      "options": [
+          "A: Amazon",
+          "B: Nile",
+          "C: Yangtze",
+          "D: Mississippi"
+      ],
+      "correct_answer": "B",
+      "difficulty": "medium",
+      "category": "Geography"
+  },
+  {
+      "question": "Who directed the movie 'Inception'?",
+      "options": [
+          "A: Steven Spielberg",
+          "B: Martin Scorsese",
+          "C: Christopher Nolan",
+          "D: James Cameron"
+      ],
+      "correct_answer": "C",
+      "difficulty": "medium",
+      "category": "Entertainment"
+  },
+  {
+      "question": "What is the currency of Japan?",
+      "options": [
+          "A: Yen",
+          "B: Won",
+          "C: Yuan",
+          "D: Baht"
+      ],
+      "correct_answer": "A",
+      "difficulty": "easy",
+      "category": "Economics"
+  },
+  {
+      "question": "Who developed the polio vaccine?",
+      "options": [
+          "A: Alexander Fleming",
+          "B: Jonas Salk",
+          "C: Louis Pasteur",
+          "D: Robert Koch"
+      ],
+      "correct_answer": "B",
+      "difficulty": "medium",
+      "category": "Science"
+  },
+  {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": [
+          "A: China",
+          "B: South Korea",
+          "C: Japan",
+          "D: Thailand"
+      ],
+      "correct_answer": "C",
+      "difficulty": "easy",
+      "category": "Geography"
+  },
+  {
+      "question": "Who is the author of 'Harry Potter' series?",
+      "options": [
+          "A: J.R.R. Tolkien",
+          "B: J.K. Rowling",
+          "C: Stephen King",
+          "D: Suzanne Collins"
+      ],
+      "correct_answer": "B",
+      "difficulty": "easy",
+      "category": "Literature"
+  },
+  {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": [
+          "A: Gold",
+          "B: Iron",
+          "C: Diamond",
+          "D: Platinum"
+      ],
+      "correct_answer": "C",
+      "difficulty": "medium",
+      "category": "Science"
+  },
+  {
+      "question": "Who was the first man to step on the Moon?",
+      "options": [
+          "A: Yuri Gagarin",
+          "B: Neil Armstrong",
+          "C: Buzz Aldrin",
+          "D: Alan Shepard"
+      ],
+      "correct_answer": "B",
+      "difficulty": "easy",
+      "category": "History"
+  },
+  {
+      "question": "Which country is famous for the dance 'Tango'?",
+      "options": [
+          "A: Brazil",
+          "B: Spain",
+          "C: Argentina",
+          "D: Mexico"
+      ],
+      "correct_answer": "C",
+      "difficulty": "medium",
+      "category": "Culture"
+  },
+  {
+      "question": "What is the smallest continent by land area?",
+      "options": [
+          "A: Europe",
+          "B: Australia",
+          "C: Antarctica",
+          "D: South America"
+      ],
+      "correct_answer": "B",
+      "difficulty": "easy",
+      "category": "Geography"
+  },
+  {
+      "question": "Which vitamin is produced when the skin is exposed to sunlight?",
+      "options": [
+          "A: Vitamin A",
+          "B: Vitamin C",
+          "C: Vitamin D",
+          "D: Vitamin E"
+      ],
+      "correct_answer": "C",
+      "difficulty": "easy",
+      "category": "Science"
+  },
+  {
+      "question": "What is the primary language spoken in Brazil?",
+      "options": [
+          "A: Spanish",
+          "B: Portuguese",
+          "C: French",
+          "D: English"
+      ],
+      "correct_answer": "B",
+      "difficulty": "easy",
+      "category": "Geography"
+  },
+  {
+      "question": "Who was the first person to reach the summit of Mount Everest?",
+      "options": [
+          "A: Edmund Hillary",
+          "B: Tenzing Norgay",
+          "C: Reinhold Messner",
+          "D: George Mallory"
+      ],
+      "correct_answer": "A",
+      "difficulty": "medium",
+      "category": "History"
+  },
+  {
+      "question": "What is the main ingredient in guacamole?",
+      "options": [
+          "A: Tomato",
+          "B: Onion",
+          "C: Avocado",
+          "D: Pepper"
+      ],
+      "correct_answer": "C",
+      "difficulty": "easy",
+      "category": "Cuisine"
+  },
+  {
+      "question": "Which country won the FIFA World Cup in 2018?",
+      "options": [
+          "A: Germany",
+          "B: Argentina",
+          "C: Brazil",
+          "D: France"
+      ],
+      "correct_answer": "D",
+      "difficulty": "medium",
+      "category": "Sports"
+  },
+  {
+      "question": "What is the term for a word that is similar in meaning to another word?",
+      "options": [
+          "A: Antonym",
+          "B: Homonym",
+          "C: Synonym",
+          "D: Homophone"
+      ],
+      "correct_answer": "C",
+      "difficulty": "easy",
+      "category": "Language"
+  }
+]
